@@ -1,0 +1,5 @@
+org\example\model\Company.class
+org\example\App.class
+org\example\model\Branch.class
+org\example\model\Address.class
+org\example\bean\CompanyManager.class

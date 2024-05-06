@@ -1,0 +1,8 @@
+<window title="Manage Companies" border="normal" width="600px">
+    <vlayout>
+        <label value="Add New Company"/>
+        <textbox id="nameBox" placeholder="Enter company name"/>
+        <button label="Add Company" onClick="@command('addCompany', name=nameBox.value)"/>
+    </vlayout>
+</window>
+
